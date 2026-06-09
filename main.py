@@ -24,7 +24,8 @@ print("Calculator started.")
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
-print("3.Multiply") 
+print("3.Multiply")
+print("crack!!") 
 
 
 while True:
