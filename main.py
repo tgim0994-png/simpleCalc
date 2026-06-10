@@ -25,7 +25,11 @@ print("Select operation.")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
+ HEAD
 print("crack!!") 
+print("4.Divide")
+print("5.Exit") 
+ 95f2aa8 (add exit button)
 
 
 while True:
